@@ -1,0 +1,9 @@
+.empty-state,
+.error-state,
+.loading-state {
+  display: grid;
+  place-items: center;
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--mat-sys-on-surface-variant);
+}
